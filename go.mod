@@ -1,4 +1,4 @@
-module charsetconv
+module github.com/zimolab/charsetconv
 
 go 1.19
 
